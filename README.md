@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MERN and DSA**
 
 - 💬 Ask me about **react,redux,javascript,front end**
 
