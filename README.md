@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **MERN and DSA**
 
-- 💬 Ask me about **react,redux,javascript,front end**
+- 💬 Ask me about **react,redux,javascript,frontend development**
 
 - 📫 How to reach me **rahulyadav050597@gmail.com**
 
-- Linkedin **[rahulyadav050597@gmail.com](https://www.linkedin.com/in/rahul-yadav-36bb27219/)**
+- Linkedin **https://www.linkedin.com/in/rahul-yadav-36bb27219/**
 
