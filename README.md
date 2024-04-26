@@ -1,7 +1,12 @@
-<ul>
-  <l1>👋 Hi, I’m Rahul yadav</l1>
-  <l1>👀 I’m interested in front end devlopment</l1>
-  <l1>🌱 I’m a interested in Mern stack and DSA</l1>
-  <l1>📫 How to reach me : rahulyadav050597@gmail.com</l1>
-</ul>
+<h1 align="center">Hi 👋, I'm Rahul yadav</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
+- 🌱 I’m currently learning **MERN**
+
+- 💬 Ask me about **react,redux,javascript,front end**
+
+- 📫 How to reach me **rahulyadav050597@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
