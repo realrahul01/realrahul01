@@ -7,3 +7,5 @@
 
 - 📫 How to reach me **rahulyadav050597@gmail.com**
 
+- Linkedin **[rahulyadav050597@gmail.com](https://www.linkedin.com/in/rahul-yadav-36bb27219/)**
+
