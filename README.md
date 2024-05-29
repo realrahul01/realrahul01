@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **MERN and DSA**
 
+- 🌱 React Native 
+
 - 💬 Ask me about **react, react native, redux,javascript,frontend development**
 
 - 📫 How to reach me **rahulyadav050597@gmail.com**
