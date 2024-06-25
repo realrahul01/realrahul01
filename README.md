@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahul yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **MERN and DSA**
+- 🌱 I’m currently working as a frontend developer at Learnasyougo
 
-- 🌱 React Native 
+- 🌱 I'm Interested in React Native frontend development
 
 - 💬 Ask me about **react, react native, redux,javascript,frontend development**
 
